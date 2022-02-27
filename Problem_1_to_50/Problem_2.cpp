@@ -16,7 +16,7 @@ int main(){
     int second = 2;
     int third;
     int sum = 0;
-    while(sum < 4000000){
+    while(sum < 4000000){ 
         third = first + second;
         first = second;
         second = third;
