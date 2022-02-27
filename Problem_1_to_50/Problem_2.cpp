@@ -27,5 +27,5 @@ int main(){
     }
     cout << sum + 2; // 2 is the first even term
 
-    return 0;
+    return 0; 
 }
